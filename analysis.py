@@ -1,1 +1,2 @@
-my analysis goes here
+MY_MAGIC_NUMBER  =        3
+print(MY_MAGIC_NUMBER)
